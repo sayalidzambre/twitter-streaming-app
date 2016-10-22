@@ -3,7 +3,6 @@
 /.project
 /target
 /bin
-/conf
 .idea
 *.iml
 *.DS_Store
